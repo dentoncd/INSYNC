@@ -62,8 +62,8 @@ The project uses only Python's standard library, so no additional packages need 
 Clone the repository:
 
 ```bash
-git clone https://github.com/dentoncd/wavelength.git
-cd wavelength
+git clone https://github.com/dentoncd/INSYNC
+cd INSYNC
 ```
 
 ### Run the Game
@@ -99,7 +99,7 @@ The game then compares the guess with the hidden target, awards points, displays
 ## Project Structure
 
 ```text
-wavelength/
+INSYNC/
 ├── main.py       # Main game logic and gameplay loop
 ├── test.py       # Small test for the random wheel animation
 ├── ideas.txt     # Original gameplay notes and project ideas
@@ -133,4 +133,4 @@ Future versions could include:
 
 ## Repository
 
-GitHub: [dentoncd/wavelength](https://github.com/dentoncd/wavelength)
+GitHub: [dentoncd/INSYNC](https://github.com/dentoncd/INSYNC)
