@@ -1,0 +1,12 @@
+Player 1 has a turn (looks at laptop)
+Random topic is chosen, player 1 can type ',' to choose a new random topic
+Random number between 1 and 20 is generated, number is shown to player 1
+
+Player 2 then inputs a number to guess
+If the number they guess is spot on, player 2 gets 3 points
+Elif the number they guess is +-(1) the number, they get 2 points
+Elif the number they guess is +-(2) the number, they get 1 point
+Else, no points are given, and it is player 2's turn
+
+At the end of each round, the points are tallied
+First to X points win
